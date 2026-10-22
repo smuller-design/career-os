@@ -1,0 +1,9 @@
+{
+  "name": "career-os-kit",
+  "version": "0.1.0",
+  "description": "Monta o Career OS: um sistema que transforma o que você faz no dia a dia em evidência de impacto, quase sozinho — para PDI, avaliação e promoção. Inclui o wizard de setup, os templates e o espelho de PDI em tempo real.",
+  "author": {
+    "name": "Sara Muller"
+  },
+  "keywords": ["career", "pdi", "brag-document", "promocao", "design"]
+}

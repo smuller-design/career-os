@@ -1,0 +1,14 @@
+{
+  "name": "career-os",
+  "description": "Career OS — sistema que transforma o dia a dia em evidência de impacto (PDI, avaliação, promoção). Catálogo do time de design.",
+  "owner": {
+    "name": "Sara Muller"
+  },
+  "plugins": [
+    {
+      "name": "career-os-kit",
+      "source": "./plugins/career-os-kit",
+      "description": "Monta o Career OS do zero (wizard de setup + templates + rotinas) e inclui o espelho de PDI em tempo real (pdi-demand-checker)."
+    }
+  ]
+}
